@@ -1,5 +1,10 @@
 # 🥇 My Certifies
 ---
+
+- [Primeiros Passsos Com Javascript](./Primeiros%20Passos%20Com%20Javascript.pdf)
+
+- [Introdução a Criação de WebSite com HTML5 E CSS3](./Introdução%20a%20Criação%20de%20Websites%20com%20HTML5%20e%20CSS3.pdf)
+
 - [Bootcamps DIO: Educação Gratuita e Empregabilidade Juntas! - Ano 2024](./Bootcamps%20DIO%20Educação%20Gratuita%20e%20Empregabilidade%20Juntas.pdf)
 
 - [Princípios de Desenvolvimento Colaborativo - Ano 2024](./Princípios%20de%20desenvolvimento%20colaborativo.pdf)
