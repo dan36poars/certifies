@@ -1,5 +1,7 @@
 # 🥇 My Certifies
 ---
+- [Criando Objetos e Classes em JavaScript - Ano 2024](./Criando%20Objetos%20e%20Classes%20em%20JavaScript.pdf)
+
 - [Conhecendo Funções JavaScript - Ano 2024](./Conhecendo%20Funções%20JavaScript.pdf)
 
 - [Primeiros Passsos Com Javascript - Ano 2024](./Primeiros%20Passos%20Com%20Javascript.pdf)
