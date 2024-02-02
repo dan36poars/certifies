@@ -1,5 +1,7 @@
 # 🥇 My Certifies
 ---
+- [Array e Estruturas de Repetição em JavaScript - Ano 2024](./Arrays%20e%20Estruturas%20de%20Repetição%20em%20JavaScript.pdf)
+
 - [Criando Objetos e Classes em JavaScript - Ano 2024](./Criando%20Objetos%20e%20Classes%20em%20JavaScript.pdf)
 
 - [Conhecendo Funções JavaScript - Ano 2024](./Conhecendo%20Funções%20JavaScript.pdf)
